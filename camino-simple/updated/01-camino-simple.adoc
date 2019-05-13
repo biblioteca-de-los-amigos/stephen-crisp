@@ -1,5 +1,9 @@
 == Un Camino Simple
 
+[.old-style]
+=== Abierto para los de Corazón Sencillo / Una respuesta a todas las dudas y objeciones que se levantan en contra de la aparición de la luz y de la verdad de Cristo internamente; por las cuales muchos han dejado la obediencia, y así la paz de sus almas anhelantes.
+
+[.salutation]
 Amigos y pueblo,
 
 Mi espíritu ha sido profundamente ejercitado con respecto a muchos,
@@ -653,8 +657,11 @@ Y aunque estoy en cadenas por causa del evangelio,
 soy un hombre libre en el Señor esperando en paciencia
 y completa seguridad por la redención plena de Sion.
 
+[.signed-section-closing]
 Conocido por el nombre de,
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.signed-section-context-close]
 Desde la Cárcel de Ipswich County, el Tercer mes de 1668.

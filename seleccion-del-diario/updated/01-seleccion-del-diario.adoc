@@ -447,13 +447,13 @@ era constreñido a reconocer y a confesar la verdad.
 [.asterism]
 '''
 
-[.alt.centered]
-==== Nota del Editor
+[.inline]
+=== Nota del Editor
 
 +++[+++Se dice de James Parnell que "`era joven,
 pequeño de estatura y de pobre apariencia,`" pero miles fueron
-obligados a confesar que "`hablaba como quien tiene autoridad,
-y no como los escribas.`"
+obligados a confesar que
+"`hablaba como quien tiene autoridad, y no como los escribas.`"
 Él fue convencido de la verdad cuando sólo tenía catorce años,
 y se convirtió en un poderoso predicador y promotor del evangelio
 a los dieciséis. Tras un debate con un sacerdote prominente,

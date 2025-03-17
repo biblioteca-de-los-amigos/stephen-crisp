@@ -1,3 +1,7 @@
 #__id__ .title-wrap h1 {
   line-height: 1.6em;
 }
+
+#__id__.trim--s .front__main .title-wrap .title  {
+  font-size: 17%;
+}
